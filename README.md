@@ -2,6 +2,6 @@
 
 Put css file in folder called "css"
 
-Put sumbit_api folder in folder called "images"
+Put "nami_sumbit_api" folder in folder called "images"
 
 Or change path in html
