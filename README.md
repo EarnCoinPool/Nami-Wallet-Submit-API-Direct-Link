@@ -1,6 +1,7 @@
-# Nami-Wallet-Submit-API-Direct-Link
+# Nami-Wallet-Submit-API-Direct-Link Guides for Website
 
-This is a website page that list the step by step guide for end users. These are the templates for SPOs to put the html guide on their sites.
+This a template of website files that can be added to SPO site that explain step by step guide for end users on how to use Nami Wallet Submit API Direct Link for faster transactions.
+
 
 Make these changes:
 
